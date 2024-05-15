@@ -14,7 +14,7 @@
    
 ## PROGRAM
 
-### Server
+### Client
 ```
 import socket
 s=socket.socket()
@@ -35,7 +35,7 @@ while True:
  print(ack)
  i+=s
 ```
-### Client
+### Server
 ```
 import socket
 s=socket.socket()
