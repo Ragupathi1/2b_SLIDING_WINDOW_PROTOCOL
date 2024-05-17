@@ -1,7 +1,7 @@
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
 
-### NAME: Ragupathi P
-### REG.NO:212221040135
+## Register Number: 212221040135
+## Name: Ragupathi P
 
 ## AIM
 ## ALGORITHM:
